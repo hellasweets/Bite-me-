@@ -121,29 +121,26 @@
   
     <div class="menu-category">  
       <h3>Cookies</h3>  
-      <div class="menu-item"><span>Classic Chocolate Chip</span><span class="price">$3 each</span></div>  
-      <div class="menu-item"><span>Brown Butter Sugar Cookie</span><span class="price">$3 each</span></div>  
-      <div class="menu-item"><span>Assorted Cookie Box (dozen)</span><span class="price">$30</span></div>  
-    </div>  
-  
+      <div class="menu-item"><span>cookie monster cookie</span><span class="price">$3 each</span></div>  
+      <div class="menu-item"><span>strawberry Cookie</span><span class="price">$3 each</span></div>  
+
     <div class="menu-category">  
       <h3>Churro Cheesecake</h3>  
-      <div class="menu-item"><span>Cinnamon Sugar Churro Cheesecake</span><span class="price">$45</span></div>  
-      <div class="menu-item"><span>Mini Churro Cheesecake</span><span class="price">$8 each</span></div>  
+      <div class="menu-item"><span>Cinnamon Sugar Churro Cheesecake</span><span class="price">$4</span></div>  
+      <div class="menu-item"><span>Mini Churro Cheesecake</span><span class="price">$5 each</span></div>  
     </div>  
   
     <div class="menu-category">  
       <h3>Brownies</h3>  
       <div class="menu-item"><span>Fudgy Espresso Brownie</span><span class="price">$4 each</span></div>  
-      <div class="menu-item"><span>Classic Chocolate Brownie</span><span class="price">$3.50 each</span></div>  
-      <div class="menu-item"><span>Brownie Box (dozen)</span><span class="price">$38</span></div>  
+      <div class="menu-item"><span>Classic Chocolate Brownie</span><span class="price">$2 each</span></div>  
     </div>  
   
     <div class="menu-category">  
       <h3>Small Cakes</h3>  
-      <div class="menu-item"><span>Mocha Cream Cake</span><span class="price">$28</span></div>  
-      <div class="menu-item"><span>Vanilla Bean Cake</span><span class="price">$26</span></div>  
-      <div class="menu-item"><span>Custom Small Cake</span><span class="price">$30+</span></div>  
+      <div class="menu-item"><span>Mocha Cream Cake</span><span class="price">$5</span></div>  
+      <div class="menu-item"><span>Vanilla Bean Cake</span><span class="price">$5</span></div>  
+      <div class="menu-item"><span>Custom Small Cake</span><span class="price">$5+</span></div>  
     </div>  
   </section>  
   
